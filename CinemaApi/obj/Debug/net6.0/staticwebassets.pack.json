@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Course asp\\cinema project\\CinemaAPI\\CinemaApi\\CinemaApi\\wwwroot\\images\\actors\\Aal-Zero.jpg",
+      "PackagePath": "staticwebassets\\images\\actors\\Aal-Zero.jpg"
+    },
+    {
+      "Id": "E:\\Course asp\\cinema project\\CinemaAPI\\CinemaApi\\CinemaApi\\wwwroot\\images\\actors\\Jony.jpg",
+      "PackagePath": "staticwebassets\\images\\actors\\Jony.jpg"
+    },
+    {
+      "Id": "E:\\Course asp\\cinema project\\CinemaAPI\\CinemaApi\\CinemaApi\\wwwroot\\images\\actors\\Leonardo Dicaprio.jpg",
+      "PackagePath": "staticwebassets\\images\\actors\\Leonardo Dicaprio.jpg"
+    },
+    {
+      "Id": "E:\\Course asp\\cinema project\\CinemaAPI\\CinemaApi\\CinemaApi\\wwwroot\\images\\actors\\The-Flash.jpg",
+      "PackagePath": "staticwebassets\\images\\actors\\The-Flash.jpg"
+    },
+    {
+      "Id": "E:\\Course asp\\cinema project\\CinemaAPI\\CinemaApi\\CinemaApi\\wwwroot\\images\\actors\\The-Nun.jpg",
+      "PackagePath": "staticwebassets\\images\\actors\\The-Nun.jpg"
+    },
+    {
+      "Id": "E:\\Course asp\\cinema project\\CinemaAPI\\CinemaApi\\CinemaApi\\wwwroot\\images\\actors\\Tom Cruze.jpg",
+      "PackagePath": "staticwebassets\\images\\actors\\Tom Cruze.jpg"
+    },
+    {
+      "Id": "E:\\Course asp\\cinema project\\CinemaAPI\\CinemaApi\\CinemaApi\\wwwroot\\images\\actors\\Will Smith.jpg",
+      "PackagePath": "staticwebassets\\images\\actors\\Will Smith.jpg"
+    },
+    {
+      "Id": "E:\\Course asp\\cinema project\\CinemaAPI\\CinemaApi\\CinemaApi\\wwwroot\\images\\actors\\bet elroby.jpg",
+      "PackagePath": "staticwebassets\\images\\actors\\bet elroby.jpg"
+    },
+    {
+      "Id": "E:\\Course asp\\cinema project\\CinemaAPI\\CinemaApi\\CinemaApi\\wwwroot\\images\\actors\\vin diesel.jpg",
+      "PackagePath": "staticwebassets\\images\\actors\\vin diesel.jpg"
+    },
+    {
+      "Id": "E:\\Course asp\\cinema project\\CinemaAPI\\CinemaApi\\CinemaApi\\wwwroot\\videos\\actors\\VID-20191017-WA0077.mp4",
+      "PackagePath": "staticwebassets\\videos\\actors\\VID-20191017-WA0077.mp4"
+    },
+    {
+      "Id": "E:\\Course asp\\cinema project\\CinemaAPI\\CinemaApi\\CinemaApi\\wwwroot\\videos\\actors\\VID-20191210-WA0014.mp4",
+      "PackagePath": "staticwebassets\\videos\\actors\\VID-20191210-WA0014.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CinemaApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CinemaApi.props",
+      "PackagePath": "build\\CinemaApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CinemaApi.props",
+      "PackagePath": "buildMultiTargeting\\CinemaApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CinemaApi.props",
+      "PackagePath": "buildTransitive\\CinemaApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
